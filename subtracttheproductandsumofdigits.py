@@ -14,4 +14,3 @@ class Solution(object):
             d+=int(a[i])
             e=(c-d)
         return(e)
-        print(c)
